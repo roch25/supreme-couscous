@@ -6,6 +6,7 @@
         <div>
             {!! $post->body !!}   
         </div>
+        <a href="/">Go back</a>
     </article>    
 @endsection
 
